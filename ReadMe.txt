@@ -1,4 +1,4 @@
-#Adaptive filters: theory and application
+Adaptive filters: theory and application
 
 The adjective "adaptive" can be understood by considering a system that is trying to adjust itself so as to respond to environments.
 
